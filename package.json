@@ -1,0 +1,14 @@
+{
+    "author": "Matt Glazar <strager.nds@gmail.com> (http://strager.net/)",
+    "name": "run",
+    "description": "Minimalist test runner",
+    "version": "0.1.0",
+    "main": "lib/run.js",
+    "engines": {
+        "node": ">= 0.4.0 < 0.8.0"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
