@@ -1,9 +1,9 @@
 {
     "author": "Matt Glazar <strager.nds@gmail.com> (http://strager.net/)",
-    "name": "run",
+    "name": "just-go",
     "description": "Minimalist test runner",
     "version": "0.1.0",
-    "main": "lib/run.js",
+    "main": "lib/index.js",
     "engines": {
         "node": ">= 0.4.0 < 0.8.0"
     },
